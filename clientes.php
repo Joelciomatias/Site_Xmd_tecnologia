@@ -3,7 +3,9 @@ include 'menu.php';
 ?>
 <div class="home">
     <div class="pagclientes">
-		<p>Clientes</p>
+		<p>
+		<img src="img/clientes.png" title="Clientes" alt="clientes" width="600px" height="400px" >
+		</p>
 	</div>
 </div>
 <?php
