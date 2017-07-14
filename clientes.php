@@ -1,7 +1,7 @@
 <?php 
 include 'menu.php';
 ?>
-<div class="home">
+<div class="">
     <div class="pagclientes">
 		<p>
 		<img src="img/clientes.png" title="Clientes" alt="clientes" width="600px" height="400px" >
