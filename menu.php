@@ -5,6 +5,7 @@
         <link rel="stylesheet" type="text/css" href="#">
         <title>Xmd Tecnologia - Sistemas para Internet</title>
 <style>
+/*comentario*/
 	*{
 		padding: 0;
 		margin: 0;
